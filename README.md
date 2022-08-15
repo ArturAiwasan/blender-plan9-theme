@@ -24,4 +24,4 @@ Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)
 ![](https://imgur.com/YbH1xMX.png)  
 
 ## Kvestaĵo  
-![ЮMoney](https://yoomoney.ru/to/4100111870930873)  
+[ЮMoney](https://yoomoney.ru/to/4100111870930873)  
