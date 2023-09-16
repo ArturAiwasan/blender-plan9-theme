@@ -1,5 +1,5 @@
 # blender-plan9-theme
-Priskribo: La Blendera etoso, kiu similas Plan9'n  
+Priskribo: La Blendera etoso, kiu similas Plan9'n. Lasta Blendera testita versio - 3.3.1;  
 Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)  
 
 ## Instalado  
@@ -8,6 +8,10 @@ Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)
 * Malfermi agordojn de Blendero (`Redakti` > `Agordoj`)  
 * Transpasi al `Etosoj` sekcio  
 * Premi `Instali` butonon kaj elekti *.xml dosieron  
+
+Redakcio:  
+* 16.09.2023 - dua versio (Al Blender 3.3.1);  
+* 15.08.2022 - unua versio.  
 
 ## Ekrankopioj  
 ![](https://imgur.com/BIDrtYn.png)  
